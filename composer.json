@@ -19,5 +19,5 @@
             "homepage": "https://buinoff.tk"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
