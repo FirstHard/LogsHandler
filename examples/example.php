@@ -2,7 +2,7 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
-use LogsHandler;
+use FirstHard\LogsHandler;
 
 LogsHandler::info("Testing logs", ['extra' => 'information', 'about' => 'info']);
 LogsHandler::debug("Testing logs", ['extra' => 'information', 'about' => 'debug']);
