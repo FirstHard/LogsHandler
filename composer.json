@@ -1,0 +1,23 @@
+{
+    "name": "firsthard/loghandler",
+    "description": "Dedicated package for the FirstHard/mvcShop training project",
+    "homepage": "https://github.com/FirstHard/LogsHandler",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4",
+        "monolog/monolog": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "LogsHandler\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladimir Buinoff",
+            "email": "buinoff@gmail.com",
+            "homepage": "https://buinoff.tk"
+        }
+    ],
+    "minimum-stability": "dev"
+}
