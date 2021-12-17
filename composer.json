@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "LogsHandler\\": "src/"
+            "FirstHard\\LogsHandler\\": "src/"
         }
     },
     "authors": [
