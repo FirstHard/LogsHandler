@@ -9,7 +9,8 @@ class LogsHandler
 {
 
     protected static $instance;
-    private const LOG_PATH = '../path/to/logs/';
+    // Push here your logs path if required
+    private const LOG_PATH = 'logs/';
 
     static public function getLogger(): Logger
     {
