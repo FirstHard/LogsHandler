@@ -1,5 +1,7 @@
 <?php
 
+namespace FirstHard;
+
 use Monolog\Logger;
 use Monolog\Handler\RotatingFileHandler;
 
